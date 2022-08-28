@@ -1,8 +1,4 @@
-// Get your shorts on - this is an array workout!
-// ## Array Cardio Day 1
-
-// Some data we can work with
-
+// Some data to work with
 const inventors = [
   { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
   { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
